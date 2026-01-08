@@ -1,2 +1,2 @@
-# retail-sales-analysis
-End-to-end retail sales data analysis using SQL, R, and Tableau to understand customer behavior and sales performance.
+# Retail Sales Performance Analysis (Foundation Project)
+This project was built as a foundation-level data analytics exercise to strengthen my skills in SQL and Power BI through retail sales analysis.
