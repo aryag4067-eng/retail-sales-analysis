@@ -2,11 +2,6 @@
 
 ## 📌 Project Overview
 This project was built as a foundation-level data analytics exercise to strengthen my skills in SQL and Power BI using a retail sales dataset.
-## 📊 Dashboard Preview
-
-![Retail Sales Dashboard](dashboard.png)
-
-
 The goal was to understand how different product categories perform in terms of revenue, transaction volume, and Average Order Value (AOV), and to practice building clean, insight-driven dashboards.
 
 ---
@@ -47,8 +42,9 @@ The dataset contains retail transaction-level data with the following key fields
 
 ---
 
-## 🖼 Dashboard Preview
-*(Dashboard image added below)*
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
 
 ---
 
